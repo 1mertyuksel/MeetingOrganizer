@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merty\\Source\\Repos\\Meeting_Organizer\\MeetingOrganizerWebAPI.csproj": {}
+    "C:\\Users\\merty\\source\\repos\\MeetingOrganizer\\MeetingOrganizerWebAPI.csproj": {}
   },
   "projects": {
     "C:\\Users\\merty\\Desktop\\BusinessLogic(BL)\\BusinessLogic(BL).csproj": {
@@ -259,14 +259,14 @@
         }
       }
     },
-    "C:\\Users\\merty\\Source\\Repos\\Meeting_Organizer\\MeetingOrganizerWebAPI.csproj": {
+    "C:\\Users\\merty\\source\\repos\\MeetingOrganizer\\MeetingOrganizerWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merty\\Source\\Repos\\Meeting_Organizer\\MeetingOrganizerWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer\\MeetingOrganizerWebAPI.csproj",
         "projectName": "MeetingOrganizerWebAPI",
-        "projectPath": "C:\\Users\\merty\\Source\\Repos\\Meeting_Organizer\\MeetingOrganizerWebAPI.csproj",
+        "projectPath": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer\\MeetingOrganizerWebAPI.csproj",
         "packagesPath": "C:\\Users\\merty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merty\\Source\\Repos\\Meeting_Organizer\\obj\\",
+        "outputPath": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

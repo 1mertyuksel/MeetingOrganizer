@@ -14,7 +14,7 @@ MeetingOrganizer is an application developed for managing meetings. The server s
 ## Technologies Used
 
 - **Backend**: .NET
-- **Frontend**: HTML, JavaScript
+- **Frontend**: HTML, CSS , JavaScript , Bootstrap
 - **Architecture**: Layered architecture with DTO usage
 - **API**: RESTful API for meeting management
 

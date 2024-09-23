@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W5xn841pX/U=",
+  "dgSpecHash": "diXoib2bHRk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\merty\\Source\\Repos\\Meeting_Organizer\\MeetingOrganizerWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer\\MeetingOrganizerWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\merty\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\merty\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
