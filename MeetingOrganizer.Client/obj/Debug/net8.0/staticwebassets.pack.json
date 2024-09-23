@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MeetingOrganizer.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MeetingOrganizer.Client.props",
+      "PackagePath": "build\\MeetingOrganizer.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MeetingOrganizer.Client.props",
+      "PackagePath": "buildMultiTargeting\\MeetingOrganizer.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MeetingOrganizer.Client.props",
+      "PackagePath": "buildTransitive\\MeetingOrganizer.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

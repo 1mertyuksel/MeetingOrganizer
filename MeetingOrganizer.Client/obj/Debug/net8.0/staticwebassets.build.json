@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "Hash": "qmjSst0Y/cd9v8nZLfBem799KpcP3dK2kNHkLRMSsiI=",
+  "Source": "MeetingOrganizer.Client",
+  "BasePath": "_content/MeetingOrganizer.Client",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\merty\\source\\repos\\Meeting_Organizer\\MeetingOrganizerWebAPI.csproj",
+      "Version": 2,
+      "Source": "MeetingOrganizerWebAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;Configuration;Platform;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeetingOrganizer.Client\\wwwroot",
+      "Source": "MeetingOrganizer.Client",
+      "ContentRoot": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\",
+      "BasePath": "_content/MeetingOrganizer.Client",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\app.js",
+      "SourceId": "MeetingOrganizer.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\",
+      "BasePath": "_content/MeetingOrganizer.Client",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\index.html",
+      "SourceId": "MeetingOrganizer.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\",
+      "BasePath": "_content/MeetingOrganizer.Client",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\style.css",
+      "SourceId": "MeetingOrganizer.Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\merty\\source\\repos\\MeetingOrganizer.Client\\wwwroot\\",
+      "BasePath": "_content/MeetingOrganizer.Client",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
