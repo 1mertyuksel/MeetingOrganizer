@@ -2,8 +2,8 @@
 
 MeetingOrganizer is an application developed for managing meetings. The server side is built using .NET with a layered architecture, utilizing Data Transfer Objects (DTOs) to communicate with a RESTful API. The frontend is developed using HTML and JavaScript.
 
-![](Add.png)
-![](List.png)
+![Add Meeting](Add.png)
+![List Meetings](List.png)
 
 ## Features
 
